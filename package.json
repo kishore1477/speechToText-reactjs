@@ -2,7 +2,7 @@
   "name": "speechtotext",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kishore1477.github.io/text-case-contverter-react",
+  "homepage": "http://kishore1477.github.io/speechToText-reactjs",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
